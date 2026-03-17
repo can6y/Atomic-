@@ -1,9 +1,7 @@
 {
   "users": {
     "8109540941": {
-      "code": "581300941",
-      "expired": 1773775374072,
-      "verified": false
+      "verified": true
     }
   }
 }
